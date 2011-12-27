@@ -1,0 +1,4 @@
+html5garden is a simple project introducing html5 new features.
+
+TODO list: indexDB, offline application, sync with google todo list
+My Vocabulary notebook: call google translate API, save vocabulary into indexDB, offline application, maybe store it in gmail.
